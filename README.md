@@ -1,4 +1,5 @@
-FydelisTech-Whois
+# FydelisTech-Whois
+
 Uma ferramenta simples e eficiente para consulta de dados WHOIS de domínios e endereços IP
 
 📋 Descrição
@@ -13,11 +14,17 @@ Status do domínio (ativo, suspenso, expirado)
 É ideal para desenvolvedores, administradores de redes, analistas de segurança e qualquer pessoa que precise verificar detalhes sobre recursos na internet.
 
 🚀 Funcionalidades
+
 ✅ Consulta de dados WHOIS para domínios (ex: .com, .br, .net, .org e outras extensões)
+
 ✅ Consulta de dados WHOIS para endereços IPv4 e IPv6
+
 ✅ Saída formatada e fácil de ler
+
 ✅ Compatível com os principais registradores e entidades de registro globais
+
 ✅ Código leve, de fácil compreensão e personalizável
+
 ✅ Sem dependências complexas para instalação
 
 💻 Tecnologias Utilizadas
