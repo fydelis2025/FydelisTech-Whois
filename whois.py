@@ -419,7 +419,7 @@ def perform_http_whois(domain, timeout=15):
     for url in services:
         try:
             req = Request(url, headers={
-                'User-Agent': 'HackerAI-Whois/1.1 (Python)',
+                'User-Agent': 'FydelisTech-Whois/1.1 (Python)',
                 'Accept': 'text/plain, application/json',
             })
             
